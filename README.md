@@ -1,4 +1,9 @@
-# Use Cases 🐾
+# 🗃️ Misc
+Para assuntos diversos do projeto cade-meu-pet
+
+<br>
+
+# 🐾 Use Cases
 
 > Diagrama de Casos de Uso do Cade-Meu-Pet
 
