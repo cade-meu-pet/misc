@@ -10,56 +10,44 @@ Para assuntos diversos do projeto cade-meu-pet
 
 <br>
 
-## Actors
+## 🎭 Actors
 
-- [ ] Tutor
+- Tutor
 
-- [ ] Collar
+- Collar
 
-- [ ] Admin
+- Admin
 
-- [ ] Person
+- Person
 
 
 
-## Tutor Use Cases
+## 📝 Tutor (Use Cases)
 
 - [ ] `Tutor` can signup. 
 
-- [ ] `Tutor` can signn.
+- [ ] `Tutor` can signin (authenticate).
 
-- [ ] `Tutor` can register `Pet` only if they have `Collar Tag`
+- [ ] Authenticated `Tutor` can register `Pet` only if they have `Collar Tag ID`
 
-- [ ] `Tutor` can update/delete `Pet` register.
-
-
+- [ ] Authenticated `Tutor` can update/delete `Pet` register.
 
 
 
-- [ ] `Tutor` do `Pet` deve fazer *Cadastro* no Web App.
+## 📝 Collar (Use Cases)
 
-- [ ] `Tutor` do `Pet` deve fazer *Login* para usar o Web App.
+- [ ] `Collar` sends GPS location data to the system. 
 
-- [ ] `Tutor` pode cadastrar, atualizar e deletar informações do `Pet` associado à um `Collar`.
 
-- [ ] Para cadastrar um `Pet`, o `Tutor` deve ativar um `Collar` associando à um `Pet`.
-  
-  - [ ] Para ativar o `Collar`, o `Tutor` deve ter o código do `Collar`.
-  
-  - [ ] Após ativar o `Collar`, o `Tutor` deve conseguir ver dados de geolocalização em tempo real do `Pet` no app.
 
-- [ ] `Admin` cadastra `Collar`
+## 📝 Admin (Use Cases)
 
-- [ ] Uma `Pessoa` pode ler o `TAG ID` do `Collar` do Pet.
-  
-  - [ ] Ao ler o `TAG ID` a `Pessoa` pode enviar informações de geolocalização do seu próprio dispositivo, informando a localização do `Pet`.
-  
-  - [x] Ao ler o `TAG ID`  a `Pessoa` pode ler informações pessoais do `Pet` e do `Tutor` através do Web App.
+- [ ] `Admin` can ban (delete) `Tutor`
 
-- [ ] 
-- [ ] 
-- [ ] 
-  
-  <br>
+- [ ] `Admin` can register `Collar Tag ID`
 
----
+
+
+## 📝 Person (Use Casos)
+
+- [ ] A `Person`who scans the QR Code on the `Collar` can view the `Pet`'s information and the `Tutor`'s contact details on theis device, as well as share their current location. 
