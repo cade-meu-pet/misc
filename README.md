@@ -20,7 +20,7 @@ Para assuntos diversos do projeto cade-meu-pet
 
 - Person
 
-
+<br>
 
 ## 📝 Tutor (Use Cases)
 
@@ -32,12 +32,15 @@ Para assuntos diversos do projeto cade-meu-pet
 
 - [ ] Authenticated `Tutor` can update/delete `Pet` register.
 
+<br>
+
 
 
 ## 📝 Collar (Use Cases)
 
 - [ ] `Collar` sends GPS location data to the system. 
 
+<br>
 
 
 ## 📝 Admin (Use Cases)
@@ -46,6 +49,7 @@ Para assuntos diversos do projeto cade-meu-pet
 
 - [ ] `Admin` can register `Collar Tag ID`
 
+<br>
 
 
 ## 📝 Person (Use Casos)
