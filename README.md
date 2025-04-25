@@ -35,12 +35,13 @@ Para assuntos diversos do projeto cade-meu-pet
 - [ ] Authenticated `Tutor` can view update/delete account
 
 - [ ] Auhtenticated `Tutor` can view pets information
+- [ ] Authenticated `Tutor` can enable/disable `Collar` routine
 
 <br>
 
 ## 📝 Collar (Use Cases)
 
-- [ ] `Collar` sends GPS location data to the system. 
+- [ ] `Collar` sends GPS location data to the system when enable. 
 
 <br>
 
