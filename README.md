@@ -32,16 +32,17 @@ Para assuntos diversos do projeto cade-meu-pet
 
 - [ ] Authenticated `Tutor` can update/delete `Pet` register.
 
+- [ ] Authenticated `Tutor` can view update/delete account
+
+- [ ] Auhtenticated `Tutor` can view pets information
+
 <br>
-
-
 
 ## 📝 Collar (Use Cases)
 
 - [ ] `Collar` sends GPS location data to the system. 
 
 <br>
-
 
 ## 📝 Admin (Use Cases)
 
@@ -50,8 +51,5 @@ Para assuntos diversos do projeto cade-meu-pet
 - [ ] `Admin` can register `Collar Tag ID`
 
 <br>
-
-
-## 📝 Person (Use Casos)
 
 - [ ] A `Person`who scans the QR Code on the `Collar` can view the `Pet`'s information and the `Tutor`'s contact details on theis device, as well as share their current location. 
