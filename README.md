@@ -41,16 +41,22 @@ Para assuntos diversos do projeto cade-meu-pet
 
 ## 📝 Collar (Use Cases)
 
-- [ ] `Collar` sends GPS location data to the system when enable. 
-
+- [ ] `Collar` sends GPS location data to the system when enable.
+- [ ] `Collar` has a QR code linking to the tutor's and pet's contact information page.
+ 
 <br>
 
 ## 📝 Admin (Use Cases)
 
 - [ ] `Admin` can ban (delete) `Tutor`
 
-- [ ] `Admin` can register `Collar Tag ID`
+- [ ] `Admin` can register `Collar` Tag ID
+
+- [ ] `Admin` can register Colar QrCode
 
 <br>
 
 - [ ] A `Person`who scans the QR Code on the `Collar` can view the `Pet`'s information and the `Tutor`'s contact details on theis device, as well as share their current location. 
+
+
+## Use cases
