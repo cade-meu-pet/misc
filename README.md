@@ -59,4 +59,6 @@ Para assuntos diversos do projeto cade-meu-pet
 - [ ] A `Person`who scans the QR Code on the `Collar` can view the `Pet`'s information and the `Tutor`'s contact details on theis device, as well as share their current location. 
 
 
-## Use cases
+## Use Cases Diagram: 
+![image](https://github.com/user-attachments/assets/5bdd4111-f8c3-430e-a8e2-b3536b323671)
+
