@@ -62,3 +62,7 @@ Para assuntos diversos do projeto cade-meu-pet
 ## Use Cases Diagram: 
 ![image](https://github.com/user-attachments/assets/5bdd4111-f8c3-430e-a8e2-b3536b323671)
 
+## Architecture Diagram
+![image](https://github.com/user-attachments/assets/6cd9d42c-a599-4971-8a55-58b479a62858)
+
+
