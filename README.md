@@ -60,7 +60,8 @@ Para assuntos diversos do projeto cade-meu-pet
 
 
 ## Use Cases Diagram: 
-![cade-meu-pet-uml drawio(2)](https://github.com/user-attachments/assets/3a227198-a2b9-4927-982e-44a86eb3f529)
+![cade-meu-pet-uml drawio](https://github.com/user-attachments/assets/8aa446dd-c1f4-420f-8e68-4a373093ab4a)
+
 
 
 
