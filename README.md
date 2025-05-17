@@ -14,7 +14,7 @@ Para assuntos diversos do projeto cade-meu-pet
 
 - Tutor
 
-- Collar
+- ~Collar~
 
 - Admin
 
@@ -35,14 +35,14 @@ Para assuntos diversos do projeto cade-meu-pet
 - [ ] Authenticated `Tutor` can view update/delete account
 
 - [ ] Auhtenticated `Tutor` can view pets information
-- [ ] Authenticated `Tutor` can enable/disable `Collar` routine
+- [ ] ~Authenticated `Tutor` can enable/disable `Collar` routine~
 
 <br>
 
-## 📝 Collar (Use Cases)
+## ~📝 Collar (Use Cases)~
 
-- [ ] `Collar` sends GPS location data to the system when enable.
-- [ ] `Collar` has a QR code linking to the tutor's and pet's contact information page.
+- [ ] ~`Collar` sends GPS location data to the system when enable.~
+- [ ] ~`Collar` has a QR code linking to the tutor's and pet's contact information page.~
  
 <br>
 
