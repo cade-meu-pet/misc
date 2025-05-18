@@ -1,6 +1,9 @@
 # 🗃️ Misc
-
 Para assuntos diversos do projeto cade-meu-pet
+
+<br>
+
+![image](https://github.com/user-attachments/assets/16c089ec-41dd-4199-a4dc-c35dc56a694c)
 
 <br>
 
