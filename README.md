@@ -63,14 +63,22 @@ Para assuntos diversos do projeto cade-meu-pet
 
 
 ## Use Cases Diagram: 
+<br>
+<br>
+
 ![cade-meu-pet-uml drawio](https://github.com/user-attachments/assets/8aa446dd-c1f4-420f-8e68-4a373093ab4a)
 
-
-
-
+<br>
+<br>
 
 ## Architecture Diagram
 ![cade-meu-pet-architecture drawio(3)](https://github.com/user-attachments/assets/6abaf01f-1d8a-4d61-826e-a411b25393ee)
+
+<br>
+<br>
+
+## Database Design
+![image](https://github.com/user-attachments/assets/2d642190-6e5a-479e-82d6-d2315b7e086c)
 
 
 
