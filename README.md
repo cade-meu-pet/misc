@@ -78,7 +78,7 @@ Para assuntos diversos do projeto cade-meu-pet
 <br>
 
 ## Database Design
-![image](https://github.com/user-attachments/assets/2d642190-6e5a-479e-82d6-d2315b7e086c)
+![Screenshot from 2025-05-19 20-34-41](https://github.com/user-attachments/assets/e179bdd7-b43f-46b3-be2e-65e56ab4644c)
 
 
 
