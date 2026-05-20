@@ -1,7 +1,6 @@
 # 📅 Cronograma TCC — Cadê Meu Pet
 
 **Prazo de entrega (Versão Preliminar):** 19/06/2026  
-**Início:** 20/05/2026  
 **Tempo disponível:** 4 semanas
 
 ---
